@@ -1,0 +1,11 @@
+mysql:
+  path: sh-cdb-iwv5yvtu.sql.tencentcdb.com
+  port: 58998
+  config: charset=utf8mb4&parseTime=True&loc=Local
+  db-name: gocyber_testForMove # 更改要同步数据库的名字
+  username: root
+  password: Go121314!
+  max-idle-conns: 0
+  max-open-conns: 0
+  log-mode: ""
+  log-zap: false
